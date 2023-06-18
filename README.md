@@ -18,7 +18,7 @@
 ---
 
 ## 網路應用
-* Flask - WebServer
+* Flask - 輕量級的Web應用框架
   
 ---
 
